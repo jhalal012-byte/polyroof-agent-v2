@@ -1,0 +1,6 @@
+{
+  "name": "ایجنت تلفنی پلی‌روف اریکا",
+  "description": "لندینگ‌پیج رسمی، مدرن و واکنش‌گرای ایجنت تلفنی هوشمند شرکت پلی‌روف اریکا (سپید فام وارنا)",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
